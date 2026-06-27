@@ -1,4 +1,5 @@
 # Evaluacion.Formativa
+Sebastian Canales - Alejandro Saavedra
 <img width="1074" height="715" alt="Captura de pantalla 2026-06-26 183613" src="https://github.com/user-attachments/assets/a4a07ac0-a4e3-46d7-b643-4c28ff64a4d4" />
 Se crea la maquina virtual de Windows Server 2019
 <img width="946" height="389" alt="Captura de pantalla 2026-06-26 183648" src="https://github.com/user-attachments/assets/9e786ebd-3cba-461f-84d0-647f39699860" />
